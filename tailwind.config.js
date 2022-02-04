@@ -9,6 +9,8 @@ module.exports = {
         "counter-bg": "#263765",
         "counter-color": "#63E299",
         "button-color": "#FF7300",
+        "awards-bg": "#F6F8FF",
+        "footer-booter-color": "#E5E5E5",
       },
     },
   },
