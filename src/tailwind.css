@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bannerSection {
+    width: 100%;
+    background: linear-gradient(
+      0deg,
+      #e8efff 0%,
+      #e8efff 10.73%,
+      rgba(232, 239, 255, 0) 100%
+    );
+  }
+  .bannerHeight {
+    height: 350px;
+  }
+  body {
+    font-family: "Barlow", sans-serif;
+  }
+}

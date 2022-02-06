@@ -1,5 +1,5 @@
 module.exports = {
-  content: [],
+  content: ["./*.html"],
   theme: {
     extend: {
       colors: {
@@ -11,6 +11,9 @@ module.exports = {
         "button-color": "#FF7300",
         "awards-bg": "#F6F8FF",
         "footer-booter-color": "#E5E5E5",
+      },
+      height: {
+        600: "600px",
       },
     },
   },
